@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=I+can+hear+violins%2C+violins;Give+me+all+of+that+Ultraviolence.+" alt="Typing SVG" /></a>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=I+can+hear+violins%2C+violins;Give+me+all+of+that+Ultraviolence.+" alt="Typing SVG"</p>
