@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Kyoyaootori&color=blueviolet&label=Chuds")</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Kyoyaootori&color=blueviolet&label=X")</p>
 
 
 **<p align="center"><ins>I fucking love this guy</ins></p>**
