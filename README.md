@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Kyoyaootori&color=blueviolet&label=X")</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Kyoyaootori&color=0e3bff&label=X")</p>
 
 
 **<p align="center"><ins>aren't they cute? ( ˃` ⩌ ´˂ )</ins></p>**
